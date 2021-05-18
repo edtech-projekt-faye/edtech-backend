@@ -9,9 +9,16 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "cookie-session": "^1.4.0",
     "cors": "^2.8.5",
     "dotenv": "^9.0.2",
+    "ejs": "^3.1.6",
+    "exec": "^0.2.1",
     "express": "^4.17.1",
-    "mongoose": "^5.12.9"
+    "google-auth-library": "^7.0.4",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.12.9",
+    "passport": "^0.4.1",
+    "passport-google-oauth20": "^2.0.0"
   }
 }
